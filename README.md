@@ -1,2 +1,1 @@
-# RemiHelleboid.github.io
-Main
+# Academic website powered by Hugo.
